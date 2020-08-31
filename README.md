@@ -5,7 +5,7 @@
 * [Description](#description)
 * [Technologies Used](#technologies-used)
 * [Application Demo](#application-demo)
-* [Deployed Application](#depoloyed-application)
+* [Deployed Application](#deployed-application)
 * [Contact Information](#contact-information)
 
 ## Description
