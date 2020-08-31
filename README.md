@@ -19,6 +19,13 @@ In order to use this application, a user can access the deployed generator at th
 HTML, CSS, JavaScript
 
 ## Application Demo
+![Length Question](Images/LengthQ.png)
+![Length Question Confirmation](Images/LengthConfirm.png)
+![Lowercase Question](Images/Lowercase.png)
+![Uppercase Question](Images/Uppercase.png)
+![Number Question](Images/Numbers.png)
+![Special Character Question](Images/SpecialCharacters.png)
+![Final Password](Images/FinalPassword.png)
 
 ## Contact Information
 * Jarrod Bataille
