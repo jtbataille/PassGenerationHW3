@@ -3,16 +3,13 @@
 
 ## Table of Contents
 * [Description](#description)
-* [Installation](#description)
 * [Technologies Used](#technologies-used)
 * [Application Demo](#application-demo)
+* [Deployed Application](#depoloyed-application)
 * [Contact Information](#contact-information)
 
 ## Description
 The Password Genertor uses JavaScript Alerts and Prompts to gleen a password based on a user's wishes. The user will be asked five (5) total questions: password length, lowercase characters (Y/N), uppercase characters (Y/N), numbers (Y/N), and special characters (Y/N), with a requirement of between 8 and 129 characters, as well as one of the remaining options.
-
-## Installation
-In order to use this application, a user can access the deployed generator at this application link: [Deployed Application Link](https://jtbataille.github.io/Password-Generator-Application/)
 
 ## Technologies Used
 HTML, CSS, JavaScript
@@ -25,6 +22,9 @@ HTML, CSS, JavaScript
 ![Number Question](Images/Numbers.png)
 ![Special Character Question](Images/SpecialCharacters.png)
 ![Final Password](Images/FinalPassword.png)
+
+## Deployed Application
+[Generate A Password!](https://jtbataille.github.io/Password-Generator-Application/)
 
 ## Contact Information
 * Jarrod Bataille
