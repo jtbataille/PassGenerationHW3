@@ -33,8 +33,8 @@ function generatePassword () {
   // Prompts for use in the password
   var confirmLowerCase = confirm("Select OK if you would like lowercase letters in your password; otherwise, select Cancel.");
   var confirmUpperCase = confirm("Select OK if you like uppercase letters in your password; otherwise, select Cancel.");
-  var confirmPossNum = confirm ("Select OK if you like numbers in your password; otherwise, select Cancel.");
-  var confirmSpecial = confirm ("Select OK if you like special characters in your password;otherwise, select Cancel.");
+  var confirmPossNum = confirm("Select OK if you like numbers in your password; otherwise, select Cancel.");
+  var confirmSpecial = confirm("Select OK if you like special characters in your password; otherwise, select Cancel.");
     
     // Ensure at least one parameter from the confirms above is selected
     while (confirmLowerCase === false && confirmUpperCase === false && confirmPossNum === false && confirmSpecial === false) {
@@ -45,8 +45,8 @@ function generatePassword () {
       // If alert triggers, user will be asked to re-select options on the prompts here
       var confirmLowerCase = confirm("Select OK if you would like lowercase letters in your password; otherwise, select Cancel.");
       var confirmUpperCase = confirm("Select OK if you like uppercase letters in your password; otherwise, select Cancel.");
-      var confirmPossNum = confirm ("Select OK if you like numbers in your password; otherwise, select Cancel.");
-      var confirmSpecial = confirm ("Select OK if you like special characters in your password; otherwise, select Cancel.");
+      var confirmPossNum = confirm("Select OK if you like numbers in your password; otherwise, select Cancel.");
+      var confirmSpecial = confirm("Select OK if you like special characters in your password; otherwise, select Cancel.");
     }
   
   // Empty array to be filled with possible characters from if-statements below
